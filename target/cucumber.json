@@ -1,0 +1,46 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Verify fogate password text",
+        "description": "",
+        "id": "godd-morning;verify-fogate-password-text",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "LAUNCH FB URL",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "Verify fogate password text",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@ttt"
+          }
+        ]
+      }
+    ],
+    "name": "Godd morning",
+    "description": "",
+    "id": "godd-morning",
+    "keyword": "Feature",
+    "uri": "goodmorning.feature"
+  }
+]
